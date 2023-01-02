@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DogApp</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="group">Group</string>
+    <string name="male">Male</string>
+    <string name="error_showing_dog_not_found">Perro desaparecido xd</string>
+    <string name="dog_index_format">#%d</string>
+    <string name="dog_life_expectancy_format">%s años</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dog_details_compose">DogDetailsComposeActivity</string>
+    <string name="dismiss">Cerrar</string>
+    <string name="other_probable_dogs">Otros perros parecidos</string>
+</resources>
